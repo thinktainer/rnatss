@@ -1,0 +1,12 @@
+[package]
+name = "rnatss"
+version = "0.1.0"
+authors = ["Martin Schinz <me@thinktainer.com>"]
+build = "build.rs"
+
+[dependencies]
+
+
+[build-dependencies]
+protoc-rust = "1.4"
+

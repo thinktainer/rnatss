@@ -1,0 +1,6 @@
+[submodule "lib/go-nats-streaming"]
+	path = lib/go-nats-streaming
+	url = git@github.com:nats-io/go-nats-streaming
+[submodule "lib/github.com/gogo/protobuf"]
+	path = lib/github.com/gogo/protobuf
+	url = git@github.com:gogo/protobuf
