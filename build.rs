@@ -26,7 +26,6 @@ fn gen_protos() {
         customize: protoc_rust::Customize {
             ..Default::default()
         },
-        //plugin: Some(&proto_plugin_path),
     }).expect("protoc");
 }
 
